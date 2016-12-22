@@ -1,6 +1,6 @@
 <?php
 
-namespace Team5\Payonline;
+namespace Team5ru\Payonline;
 
 	Class GetPayment {
 		var $MerchantId;
