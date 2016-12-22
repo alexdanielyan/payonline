@@ -1,5 +1,6 @@
 {
     "name": "team5ru/payonline",
+    "version": "1.0.0",
     "description": "Payonline payment system php SDK.",
     "keywords": ["payonline", "payments", "sdk"],
     "type": "library",
