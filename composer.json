@@ -1,6 +1,6 @@
 {
     "name": "team5ru/payonline",
-    "version": "1.0.0",
+    "license": "MIT",
     "description": "Payonline payment system php SDK.",
     "keywords": ["payonline", "payments", "sdk"],
     "type": "library",
@@ -12,5 +12,8 @@
         "psr-0": {
             "Team5": "src/"
         }
+    },
+    "config": {
+        "preferred-install": "dist"
     }
 }
