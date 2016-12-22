@@ -1,0 +1,15 @@
+{
+    "name": "team5ru/payonline",
+    "description": "Payonline payment system php SDK.",
+    "keywords": ["payonline", "payments", "sdk"],
+    "type": "library",
+    "homepage": "https://payonline.ru/developers/SDK/php/",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Team5": "src/"
+        }
+    }
+}

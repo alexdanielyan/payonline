@@ -1,4 +1,6 @@
-<?
+<?php
+
+namespace Team5\Payonline;
 
 	Class GetPayment {
 		var $MerchantId;
