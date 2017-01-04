@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Team5": "src/"
+            "Team5ru": "src/"
         }
     },
     "config": {
